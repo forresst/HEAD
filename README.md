@@ -456,27 +456,6 @@ Depuis Chrome 31, vous pouvez configurer votre application web en "mode applicat
 
 **[⬆ retour à la liste](#table-des-matières)**
 
-## App Links
-
-``` html
-<!-- iOS -->
-<meta property="al:ios:url" content="applinks://docs">
-<meta property="al:ios:app_store_id" content="12345">
-<meta property="al:ios:app_name" content="App Links">
-
-<!-- Android -->
-<meta property="al:android:url" content="applinks://docs">
-<meta property="al:android:app_name" content="App Links">
-<meta property="al:android:package" content="org.applinks">
-
-<!-- Repli vers le Web -->
-<meta property="al:web:url" content="http://applinks.org/documentation">
-```
-
-- 📖 [App Links](http://applinks.org/documentation/) (En anglais)
-
-**[⬆ retour à la liste](#table-des-matières)**
-
 ## Navigateurs (chinois)
 
 ### 360 Browser
@@ -525,6 +504,27 @@ Depuis Chrome 31, vous pouvez configurer votre application web en "mode applicat
 ```
 
 - 📖 [Docs de UC Browser](http://www.uc.cn/download/UCBrowser_U3_API.doc) (En chinois)
+
+**[⬆ retour à la liste](#table-des-matières)**
+
+## App Links
+
+``` html
+<!-- iOS -->
+<meta property="al:ios:url" content="applinks://docs">
+<meta property="al:ios:app_store_id" content="12345">
+<meta property="al:ios:app_name" content="App Links">
+
+<!-- Android -->
+<meta property="al:android:url" content="applinks://docs">
+<meta property="al:android:app_name" content="App Links">
+<meta property="al:android:package" content="org.applinks">
+
+<!-- Repli vers le Web -->
+<meta property="al:web:url" content="http://applinks.org/documentation">
+```
+
+- 📖 [App Links](http://applinks.org/documentation/) (En anglais)
 
 **[⬆ retour à la liste](#table-des-matières)**
 
